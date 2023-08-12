@@ -37,6 +37,6 @@ A. On average, the 6th month had the lowest atmospheric pressure and the 9th mon
 9. How many terrestrial days exist in a Martian year? A visual estimate of 25% was made.</br>
 A. The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 Earth days.
 
-<img src="Images/Terrestrial_Days">
+<img src="Images/Terrestrial_Days.png">
 
 _No external sources or code were referred to in this challenge._
