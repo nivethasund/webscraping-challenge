@@ -16,7 +16,7 @@ This repo contains the following,
 
 In this challenge, I use my webscraping skills to extract data from two websites using Devtools such as Beautiful Soup(for HTML parsing) and Splinter(for automated browsing). While the first part of the assignment was to employ the basics of web-scraping, the second part used this as a means to conduct further analysis into the data using Pandas, NumPy and Matplotlib. The following questions have been answered with the analysis.
 
-1. How many months exist on Mars?
+1. How many months exist on Mars?\n
 A. There seems to be 12 martian months on Mars, each varying in the amount of terrestrial days or days on earth.
 
 2. How many Martian days' worth of data are there?
