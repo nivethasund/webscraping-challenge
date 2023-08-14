@@ -19,7 +19,7 @@ In this challenge, I use my web scraping skills to extract data from two website
 1. How many months exist on Mars?</br>
 A. There seem to be 12 Martian months on Mars, each varying in the number of terrestrial days or days on Earth.
 
-<img src="Images/Ave_Temp_Unsorted.png">
+<img src="Images/Ave_Temp_Unsorted.png" align='center'>
 
 3. How many Martian days' worth of data are there?</br>
 A. There are 1867 days worth of data.
