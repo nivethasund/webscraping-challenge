@@ -21,20 +21,20 @@ A. There seem to be 12 Martian months on Mars, each varying in the number of ter
 
 <img src="Images/Ave_Temp_Unsorted.png" align='center'>
 
-3. How many Martian days' worth of data are there?</br>
+2. How many Martian days' worth of data are there?</br>
 A. There are 1867 days worth of data.
 
-5. Which month, on average, has the lowest temperature? The highest?</br>
+3. Which month, on average, has the lowest temperature? The highest?</br>
 A. On average, the 3rd month had the lowest temperature and the 8th month had the highest.
 
 <img src="Images/Ave_Temp_Sorted.png">
 
-7. Which month, on average, has the lowest atmospheric pressure? The highest?</br>
+4. Which month, on average, has the lowest atmospheric pressure? The highest?</br>
 A. On average, the 6th month had the lowest atmospheric pressure and the 9th month had the highest.
 
 <img src="Images/Pressure_Sorted.png">
 
-9. How many terrestrial days exist in a Martian year? A visual estimate of 25% was made.</br>
+5. How many terrestrial days exist in a Martian year? A visual estimate of 25% was made.</br>
 A. The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 Earth days.
 
 <img src="Images/Terrestrial_Days.png">
